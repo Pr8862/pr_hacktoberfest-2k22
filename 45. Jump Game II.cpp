@@ -21,7 +21,6 @@ public:
 };
 
 //monotonic deque
-//https://leetcode.com/problems/jump-game-ii/discuss/230778/C%2B%2B-deque-based-beats-99
 //Runtime: 20 ms, faster than 87.98% of C++ online submissions for Jump Game II.
 //Memory Usage: 13.6 MB, less than 18.24% of C++ online submissions for Jump Game II.
 class Solution {
@@ -64,7 +63,6 @@ public:
 };
 
 //bfs
-//https://leetcode.com/problems/jump-game-ii/discuss/18019/10-lines-C%2B%2B-(16ms)-Python-BFS-Solutions-with-Explanations
 //Runtime: 32 ms, faster than 23.31% of C++ online submissions for Jump Game II.
 //Memory Usage: 13.2 MB, less than 88.44% of C++ online submissions for Jump Game II.
 class Solution {
@@ -96,7 +94,6 @@ public:
 };
 
 //Greedy
-//https://leetcode.com/problems/jump-game-ii/discuss/18014/Concise-O(n)-one-loop-JAVA-solution-based-on-Greedy
 //Runtime: 28 ms, faster than 36.18% of C++ online submissions for Jump Game II.
 //Memory Usage: 13.2 MB, less than 80.46% of C++ online submissions for Jump Game II.
 class Solution {
